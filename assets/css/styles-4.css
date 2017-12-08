@@ -1,4 +1,4 @@
-/*   
+/*
  * Template Name: Delta - Responsive Website Template for mobile apps
  * Version: 1.8
  * Author: Xiaoying Riley at 3rd Wave Media
@@ -149,7 +149,7 @@ select {
   padding-top: 90px;
 }
 .has-pattern {
-  background-image: url('../images/patterns/pattern-1.png');
+  background-image: url('../images/backdrop.png');
   background-repeat: repeat;
   background-position: left top;
 }
@@ -295,7 +295,7 @@ select {
   vertical-align: middle;
 }
 .header .main-nav button {
-  background: #0b1d2c;
+  background: #FFFFFF;
   color: #fff !important;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -320,6 +320,9 @@ select {
 .header .main-nav .nav .nav-item.active a {
   color: #286da8;
   background: none;
+}
+.navbar-light .navbar-toggler{
+
 }
 .header .main-nav .nav .nav-item a {
   color: #444444;
