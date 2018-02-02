@@ -149,7 +149,7 @@ select {
   padding-top: 90px;
 }
 .has-pattern {
-  background-image: url('../images/backdrop.png');
+  /* background-image: url('../images/backdrop.png'); */
   background-repeat: repeat;
   background-position: left top;
 }
